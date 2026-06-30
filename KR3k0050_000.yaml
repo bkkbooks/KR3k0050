@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3k0050/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十一
+  hash: sha256:6fde423eff804002a73f9da4a96c88a4d581d1c7affa2bef6c291152bdc6238c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3k0050_WYG_000-1a, image: WYG0968/WYG0968-0001a.png}
+body:
+  text: 圖書編類書類提要臣等謹案圖書編一百二十七卷明章潢撰潢有周易象義已著録是編取左圖右書之意凡諸書有圖可考者皆彚輯而為之説一卷至十五卷為經義十六卷至二十八卷為象緯歴算二十九卷至六十七卷為地理六十八卷至一百二十五卷為人道一百二十六卷為易象類編一百二十七卷為學語多識於例當入經義中而别綴於末蓋玉海附録諸書例也明人圖譜之學惟此編與王圻三才圖㑹號為巨帙然圻書門目瑣屑排纂冗雜下至奕棋牙牌之類無所不收不及潢書之體要其所繫諸説亦皆捃掇殘剰未晰源流甚至軍器類中所列鞭鐧二圖稱鞭為尉遲敬徳所用鐧為秦叔寶所用雜採齊東之語漫無考證亦不及潢書之引據古今詳賅本末雖儒生之見持論或涉迂拘然採摭繁富條里分明浩博之中取其精粹於博物之資經世之用亦未嘗無百一之禆焉乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:643da1ae559224c34f586395e0b0fcaee6488d4cc9c03a265cc755494b5bd312
+metadata:
+  title: 圖書編
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:32:53.168266'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3k0050/KR3k0050_000.txt
+hash: sha256:c1ff9f4e23450ff37d9e52a8a2305e5f6746cde0833c67c75c572d0f46f60d58
